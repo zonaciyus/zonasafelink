@@ -1,0 +1,2 @@
+# zonasafelink
+file.js
